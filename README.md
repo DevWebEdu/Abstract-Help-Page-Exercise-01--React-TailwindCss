@@ -1,25 +1,25 @@
 # Pagina Web con react y TailwindCss
 
-Pagina Ejemplo :  👊 [text](https://help.abstract.com/hc/en-us) 👊
+Pagina Ejemplo :  👊 [https://help.abstract.com/hc/en-us](https://help.abstract.com/hc/en-us) 👊
 
-##  Realizado
+###  Realizado
 
-Header  ✅
-CallToAction  ✅
-About ✅
+-Header  ✅
+-CallToAction  ✅
+-About ✅
 
-##  Pendiente
+###  Pendiente
 
-Footer   ⛔
-Nuevas Funcionalidades 
-
-
-# Documentacion 
- React :    [ https://es.react.dev/ ](https://es.react.dev/)
- TailwindCss :  [text](https://tailwindcss.com/)
+-Footer   ⛔
+-Nuevas Funcionalidades ⛔
 
 
-# Pagina de Ejercicios Front - End
- FrontEnd : [text](https://www.frontendpractice.com/projects/abstract)
+###  Documentacion 
+-React :    [ https://es.react.dev/ ](https://es.react.dev/)
+-TailwindCss :  [https://tailwindcss.com/](https://tailwindcss.com/)
+
+
+###  Pagina de Ejercicios Front - End
+-FrontEnd : [https://www.frontendpractice.com/projects/abstract](https://www.frontendpractice.com/projects/abstract)
 
 
