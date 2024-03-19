@@ -1,8 +1,25 @@
-# React + Vite
+# Pagina Web con react y TailwindCss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina Ejemplo :  👊 [text](https://help.abstract.com/hc/en-us) 👊
 
-Currently, two official plugins are available:
+##  Realizado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Header  ✅
+CallToAction  ✅
+About ✅
+
+##  Pendiente
+
+Footer   ⛔
+Nuevas Funcionalidades 
+
+
+# Documentacion 
+ React :    [ https://es.react.dev/ ](https://es.react.dev/)
+ TailwindCss :  [text](https://tailwindcss.com/)
+
+
+# Pagina de Ejercicios Front - End
+ FrontEnd : [text](https://www.frontendpractice.com/projects/abstract)
+
+
